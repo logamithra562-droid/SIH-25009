@@ -62,6 +62,7 @@ The application can be hosted on cloud platforms such as AWS or Google Cloud, so
 
 ## Technical Architecture Diagram
 
+![alt text](<Screenshot 2026-03-13 191900.png>)
 
 ## Feasibility and Viability
 This project is practical and easy to implement because it uses technologies that are already widely available. Many students already use smartphones and the internet, so accessing the platform will not be difficult.
